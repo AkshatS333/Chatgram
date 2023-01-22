@@ -1,0 +1,4 @@
+- to run the app 
+1. first enter into chat-app : cd chat-app
+2. npm run dev 
+3. in browser : localhost:3000
